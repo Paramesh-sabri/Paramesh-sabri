@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG83czNveWIzMXVob2djcXozZXFyZXg5amx5YjQ1c2tiejRtc3Z1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-- 🔭 I’m currently working on **A chat application which is a quite different from existing chat application.**
+- 🔭 I’m currently working on **A chat application which is a quite different from existing chat applications.**
 
 - 💬 Ask me about **react, java and docker.**
 
